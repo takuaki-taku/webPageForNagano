@@ -14,12 +14,12 @@ export default function Header() {
         <Link href="/" className="flex items-center gap-2">
           <Image
             src="/logodesign.png"
-            alt="長野県ピックルボール協会"
+            alt="桜市ピックルボール協会"
             width={32}
             height={32}
             className="rounded-md"
           />
-          <span className="hidden font-bold sm:inline-block">長野県ピックルボール協会</span>
+          <span className="hidden font-bold sm:inline-block">桜市ピックルボール協会</span>
         </Link>
 
         {/* デスクトップナビゲーション */}

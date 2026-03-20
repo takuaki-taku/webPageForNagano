@@ -11,7 +11,7 @@ export default async function ClubsPage() {
       <div className="mx-auto max-w-5xl">
         <h1 className="mb-8 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">クラブ一覧</h1>
         <p className="mb-8 text-lg text-muted-foreground">
-          長野県内のピックルボールクラブをご紹介します。
+          桜市内のピックルボールクラブをご紹介します。
           各クラブの詳細ページでは、活動内容や連絡先などの情報をご確認いただけます。
         </p>
 

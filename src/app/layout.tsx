@@ -8,8 +8,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "長野県ピックルボール協会",
-  description: "長野県内のピックルボール愛好家に向けた公式サイト",
+  title: "桜市ピックルボール協会",
+  description: "桜市内のピックルボール愛好家に向けた公式サイト",
 }
 
 export default function RootLayout({

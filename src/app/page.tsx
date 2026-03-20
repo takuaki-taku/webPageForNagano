@@ -30,11 +30,11 @@ export default async function Home() {
           <div className="flex flex-col justify-center space-y-4">
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
-                長野県ピックルボール協会へようこそ
+                桜市ピックルボール協会へようこそ
               </h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                長野県内のピックルボール愛好家のための情報サイトです。
-                県内チームの活動スケジュールや大会情報をご確認いただけます。
+                桜市内のピックルボール愛好家のための情報サイトです。
+                市内チームの活動スケジュールや大会情報をご確認いただけます。
               </p>
             </div>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
@@ -148,7 +148,7 @@ export default async function Home() {
         <div className="flex flex-col gap-4">
           <div className="flex items-center gap-2">
             <Users className="h-5 w-5 text-primary" />
-            <h2 className="text-2xl font-bold tracking-tight">県内のクラブ</h2>
+            <h2 className="text-2xl font-bold tracking-tight">市内のクラブ</h2>
           </div>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {topClubs.map((club) => (

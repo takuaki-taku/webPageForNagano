@@ -13,7 +13,7 @@ export default async function AnnouncementPage() {
       <div className="mx-auto max-w-4xl">
         <h1 className="mb-8 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">お知らせ</h1>
         <p className="mb-8 text-lg text-muted-foreground">
-          長野県内のピックルボール関連のお知らせや大会情報を掲載しています。
+          桜市内のピックルボール関連のお知らせや大会情報を掲載しています。
         </p>
 
         <div className="grid gap-6">

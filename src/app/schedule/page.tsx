@@ -34,7 +34,7 @@ export default async function SchedulePage() {
         </div>
 
         <p className="mb-8 text-lg text-muted-foreground">
-          長野県内のピックルボールチームの練習スケジュールです。
+          桜市内のピックルボールチームの練習スケジュールです。
           参加を希望される場合は、各チームの連絡先にお問い合わせください。
         </p>
 
